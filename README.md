@@ -1,7 +1,3 @@
----
-title: Natalia Slupina
-layout: default
----
 
 # **Experience**
 
